@@ -1,3 +1,12 @@
+[project]
+name = "pinterest_api_quickstart"
+version = "0.1.0"
+description = "Code that makes it easy to get started with the Pinterest API."
+license = "Apache 2.0"
+readme = "README.md"
+python = "^3.6"
+
+
 # Sets configuration options for the black and isort linters.
 
 # As of writing, 88 is the default for black. Set it explicitly to avoid any
